@@ -2,7 +2,7 @@
 ########################  Load Packages  ########################
 
 # List of required packages
-pkgs <- c('psych', 'ggplot2', 'dplyr')
+pkgs <- c('psych', 'ggplot2', 'dplyr', 'sampling')
 
 # Load packages
 for(pkg in pkgs){
